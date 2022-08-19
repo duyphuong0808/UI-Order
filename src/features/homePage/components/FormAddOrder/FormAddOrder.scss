@@ -1,0 +1,18 @@
+.form-add-order {
+    width: 70%;
+    margin: auto;
+
+    .add-button {
+        margin: 10px;
+    }
+
+    .add-order-form {
+        direction: rtl;
+    }
+
+    .add-order-button {
+        :hover {
+            background-color: gray;
+        }
+    }
+}

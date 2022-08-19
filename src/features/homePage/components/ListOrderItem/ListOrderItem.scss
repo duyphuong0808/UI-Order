@@ -1,0 +1,17 @@
+.table {
+    width: 80%;
+    margin: auto;
+
+    .icon-sort {
+        margin-left: 10px;
+        font-weight: bold;
+        cursor: pointer;
+        color: blue;
+    }
+}
+
+.paging-component {
+    direction: rtl;
+    padding-bottom: 10px;
+    padding-right: 10%;
+}
